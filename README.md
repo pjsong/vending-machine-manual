@@ -1,3 +1,6 @@
-# My Awesome Book
+# How it comes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+follow instructions in www.pelzz.com/ch1/gitbook.html
+
+host content url: https://vending-machine.pelzz.com
+
