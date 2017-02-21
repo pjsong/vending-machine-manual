@@ -4,7 +4,7 @@
 * [第一章 界面](ch1/ui.md)
     * [1.1 演示](ch1/demo.md)
 * [第二章 配置](ch2/config.md)
-    * [2.1 演示](ch1/demo.md)
+    * [2.1 演示](ch2/demo.md)
 * [第三章 设备日志](ch3/device.md)
     * [3.1 演示](ch3/demo.md)
 
