@@ -6,4 +6,4 @@
 + 用户名密码test123456/yiersansiwuliu登录 
 + 没有实际的设备运行, 因此只有测试环境下产生的数据可供查看
   
-# [开始演示](http://139.199.179.89:8082)
+# [开始演示](http://omddevice.demo.oursmedia.cn)

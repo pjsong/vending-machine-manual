@@ -6,4 +6,4 @@
 + 用户名密码test123456/yiersansiwuliu登录 
 
   
-# [开始演示](http://139.199.179.89:8084)
+# [开始演示](http://omddata.demo.oursmedia.cn)
